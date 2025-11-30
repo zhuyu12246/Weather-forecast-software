@@ -1,3 +1,5 @@
+[English](README.en.md) | [中文](README.md)
+
 # 天气应用
 
 这是一个简单的天气应用程序，允许用户输入城市名称来获取天气信息。应用使用了 Android 的 RecyclerView 来展示天气预报数据，并通过 HTTP 请求从服务器获取天气信息。
@@ -14,7 +16,7 @@
 1. 确保你已经安装了 Android Studio。
 2. 克隆仓库到本地：
    ```bash
-   git clone https://gitee.com/baihaowen/weather-app.git
+   git clone https://github.com/zhuyu12246/Weather-forecast-software.git
    ```
 3. 打开 Android Studio，选择 "Open an existing Android Studio project"，然后选择克隆下来的项目文件夹。
 4. 同步 Gradle 项目。
