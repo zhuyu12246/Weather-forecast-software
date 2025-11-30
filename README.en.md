@@ -1,3 +1,5 @@
+[English](README.en.md) | [中文](README.md)
+
 # Weather App
 
 This is a simple weather application that allows users to input a city name to retrieve weather information. The app uses Android's RecyclerView to display weather forecast data and fetches weather information from a server via HTTP requests.
@@ -14,7 +16,7 @@ This is a simple weather application that allows users to input a city name to r
 1. Ensure you have Android Studio installed.
 2. Clone the repository to your local machine:
    ```bash
-   git clone https://gitee.com/baihaowen/weather-app.git
+   git clone https://github.com/zhuyu12246/Weather-forecast-software.git
    ```
 3. Open Android Studio, select "Open an existing Android Studio project", then choose the cloned project folder.
 4. Sync the Gradle project.
